@@ -1,0 +1,24 @@
+button {
+	font-size: 32px;
+	background-color: white;
+	text-align: center;
+	text-transform: uppercase;
+}
+p {
+	/*background-color: red; NOT GOOD */
+	font-family: Times New Roman;	
+	font-size: 24px;
+}
+h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 34px;
+}
+header {
+	background-color: red;
+	padding: 10px 16px;
+}
+body {
+	background-color: lightblue;
+}
